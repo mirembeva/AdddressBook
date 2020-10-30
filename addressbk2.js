@@ -30,5 +30,5 @@ removeContact()
 
 //show updated addressbook
 showAddress()
-
+module.exports = {addressbook, showAddress, removeContact}
 

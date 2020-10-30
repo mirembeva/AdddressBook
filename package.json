@@ -1,0 +1,23 @@
+{
+  "name": "adddressbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addressbk2.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirembeva/AdddressBook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirembeva/AdddressBook/issues"
+  },
+  "homepage": "https://github.com/mirembeva/AdddressBook#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}
